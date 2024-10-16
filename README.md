@@ -44,9 +44,11 @@ The goal of this project is to:
 7. The stage of company funding played a significant role in the number of layoffs, especially for companies in later funding stages.
 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #### * Overall, this EDA has provided a thorough understanding of the trends, key players, and industries most affected by layoffs. 
 #### * The findings could be useful for further analysis such as predictive modeling or deeper sectoral analysis.
 #### * The clean data and EDA outputs are now ready for the next stages of analysis or presentation.
 
--- --------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
