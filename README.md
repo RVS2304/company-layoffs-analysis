@@ -35,5 +35,17 @@ The goal of this project is to:
 3. Execute the queries sequentially, starting with the data cleaning steps followed by the EDA queries.
 
 ## Key Insights
+-- 1. The dataset was cleaned to focus on relevant records, reducing the initial 3642 rows to 3041 rows.
+-- 2. The layoffs data spans approximately 4.3 years, with significant layoffs observed in the year 2023.
+-- 3. Amazon, Meta, and Tesla are the top companies with the highest layoffs, while industries such as Retail and Technology have been the most impacted.
+-- 4. The majority of layoffs occurred in the United States, followed by India and Germany.
+-- 5. Interesting patterns include companies with 100% layoffs, which warrants further investigation into business closures or restructuring.
+-- 6. A correlation analysis between Laid_Off_Count and Funds_Raised showed potential trends regarding company performance and layoff decisions.
+-- 7. The stage of company funding played a significant role in the number of layoffs, especially for companies in later funding stages.
 
+-- Overall, this EDA has provided a thorough understanding of the trends, key players, and industries most affected by layoffs. 
+-- The findings could be useful for further analysis such as predictive modeling or deeper sectoral analysis.
+-- The clean data and EDA outputs are now ready for the next stages of analysis or presentation.
+
+-- --------------------------------------------------------------
 
