@@ -11,12 +11,12 @@ The goal of this project is to:
 * Analyze the cleaned dataset using SQL to uncover significant insights and trends related to company layoffs.
 
 ## Features
-1. Data Cleaning:
+#### 1. Data Cleaning:
   * Handle missing or null values.
   * Remove duplicate entries.
   * Convert data types to match schema requirements.
   * Address outliers or inconsistencies.
-2. Exploratory Data Analysis:
+#### 2. Exploratory Data Analysis:
   * Basic statistical summaries of key columns.
   * Trend analysis on layoffs across different sectors and time periods.
   * Identification of key factors influencing layoffs.
