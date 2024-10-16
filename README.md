@@ -1,5 +1,4 @@
-# company-layoffs-analysis
-# Data Cleaning and Exploratory Data Analysis (EDA) Using SQL
+# Data Cleaning and Exploratory Data Analysis (EDA) Using SQL -  company-layoffs-analysis
 ## Project Overview
 This project focuses on data cleaning and exploratory data analysis (EDA) using SQL for a dataset related to company layoffs. The project is divided into two phases:
 * Data Cleaning: Ensures the data is free from inconsistencies and inaccuracies.
